@@ -1,0 +1,1 @@
+update usuarios set nome = "Nome teste" WHERE nome = "Lucas";
